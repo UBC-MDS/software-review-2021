@@ -1,2 +1,16 @@
-# software-review
-MDS Software Peer Review of MDS-created packages
+# MDS Software Peer Review
+
+This repository is the home to the UBC Master of [Data Science Collaborative Software Development course](https://github.com/UBC-MDS/DSCI_524_collab-sw-dev) open peer review. In this course students work in teams to build R and Python software packages, and upon completion perform open peer review of the packages they developed. To do this, the students follow the peer review process for [rOpenSci](https://ropensci.org/) and [pyOpenSci](https://www.pyopensci.org/), for the R and Python packages, respectively. 
+
+## Editors
+- [Varada Kolhatkar](https://kvarada.github.io/)
+
+
+## Reviewers
+
+The following UBC Master of Data Science students and community members have contributed to the open peer review done here:
+
+
+## Attribution
+
+We have borrowed materials and processes from the [rOpenSci](https://ropensci.org/) and [pyOpenSci](https://www.pyopensci.org/) organizations for running our package peer review in the UBC [DSCI 524 - Collaborative Software Development course](https://github.com/UBC-MDS/DSCI_524_collab-sw-dev). We thank these organization greatly for the excellent materials they have created for this!
